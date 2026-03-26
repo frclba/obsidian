@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The book "Natural Language Processing Fundamentals for Developers" by O. Campesato, published by Mercury Learning and Information, is a comprehensive guide designed for software developers with a solid background. It covers a wide range of NLP concepts and practical Python-based implementations, aiming to provide a broad overview rather than a deep dive into each topic. The book is structured to accommodate developers with varying technical backgrounds, exposing them to numerous NLP-related topics, allowing them to decide which areas to explore further.
 

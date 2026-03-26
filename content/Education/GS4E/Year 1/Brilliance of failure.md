@@ -1,0 +1,13 @@
+# Brilliance of Failure
+
+There's a cultural narrative -- especially in Silicon Valley but increasingly everywhere -- that failure is something to celebrate. "Fail fast, fail often." And while the slogan can feel hollow and performative, the underlying idea is genuinely important: failure is one of the most information-rich experiences you can have, and learning to extract that information instead of being crushed by it is a superpower.
+
+The [[Lean Startup]] methodology formalized this idea into a process. Build a minimum viable product, test it with real users, learn from the results, and iterate. Most of those iterations will involve some form of failure -- the feature nobody uses, the pricing model that doesn't work, the assumption about the customer that turns out to be wrong. Each failure narrows the search space and brings you closer to something that works. The brilliance isn't in the failure itself; it's in the learning loop that the failure feeds.
+
+[[Effectuation]], the entrepreneurial decision-making framework studied by Saras Sarasvathy, takes this even further. Expert entrepreneurs don't try to predict the future and then execute a plan. They take stock of what they have (who they are, what they know, who they know), take small affordable steps, and see what happens. When things don't work out -- which they frequently don't -- they use the unexpected results as raw material for new opportunities. Failure isn't a deviation from the plan; it's part of the process of discovering what the plan should be.
+
+The psychological challenge with failure is that our brains are wired to avoid it. Loss aversion, status anxiety, fear of judgment -- these are powerful forces that keep us playing it safe. The brilliance of failure only works if you can actually tolerate failing, which requires building emotional resilience, reframing failure as data rather than identity, and creating environments where experimentation is safe.
+
+Some of the most transformative innovations in history came from failures. Post-it notes were a failed attempt at strong adhesive. Penicillin was discovered because of contaminated petri dishes. Slack started as a failed video game company. The pattern isn't that these people were trying to fail -- it's that when things didn't go as expected, they paid attention and asked "what did we just learn?" instead of "whose fault is this?"
+
+The practical takeaway is: design your life and work so that you can afford to fail. Take small bets. Run experiments. Keep the stakes manageable. Learn quickly. And when something doesn't work, resist the urge to sweep it under the rug. Sit with it. Analyze it. Extract every drop of insight. That's where the brilliance lives.

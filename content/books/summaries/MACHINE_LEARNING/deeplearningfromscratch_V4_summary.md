@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 # Summary of "Deep Learning from Scratch" by Seth Weidman
 

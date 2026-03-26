@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The text is a comprehensive guide on network security and cryptography, structured into chapters covering various aspects of the field. Key topics include:
 

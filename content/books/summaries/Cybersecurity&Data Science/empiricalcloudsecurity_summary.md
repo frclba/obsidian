@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 # Summary of "Empirical Cloud Security: Practical Intelligence to Evaluate Risks and Attacks"
 

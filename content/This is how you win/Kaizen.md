@@ -1,1 +1,15 @@
-Kaizen 
+# Kaizen
+
+Kaizen is a Japanese word that means "continuous improvement" -- literally "change for better." It originated in Japanese manufacturing after World War II, most famously at Toyota, and has since been adopted as a philosophy in business, personal development, and pretty much any domain where getting better over time matters (which is all of them).
+
+The core idea is deceptively simple: instead of trying to make dramatic leaps, focus on making small, consistent improvements every day. A 1% improvement daily compounds into something extraordinary over time. It's the opposite of the "big bang" approach where you try to overhaul everything at once, burn out, and revert to your old ways. Kaizen is sustainable because each individual step is small enough to be easy, but the accumulated effect is transformative.
+
+[[Diligence]] is the engine that makes kaizen work. Without consistent effort -- showing up day after day, doing the work even when you don't feel like it, maintaining the discipline of small improvements -- kaizen is just a nice word. The philosophy acknowledges that motivation is unreliable and willpower is finite. Instead of relying on heroic effort, it builds improvement into the daily routine. You don't need to be inspired to improve by 1% -- you just need to show up and do the next small thing.
+
+The connection to the [[Agile Mindset]] is direct. Agile retrospectives are essentially kaizen ceremonies -- the team reflects on what's working, what's not, and commits to small improvements for the next iteration. Sprint over sprint, these small adjustments compound into dramatically better processes, communication, and output. The teams that take retrospectives seriously (and actually follow through on the action items) are the ones that get better over time. The ones that skip them or treat them as a formality stagnate.
+
+In the context of [[This is how you win]], kaizen is maybe the single most important principle. It applies to everything: fitness, relationships, career skills, creative pursuits, financial health. You don't get fit by working out for 12 hours one Saturday -- you get fit by working out for 30 minutes consistently. You don't become a great writer by sitting down to write a masterpiece -- you become a great writer by writing a little every day and getting slightly better each time.
+
+There are a few practical kaizen techniques worth knowing. **The 5 Whys**: when something goes wrong, ask "why" five times to get to the root cause. **Gemba walks**: go to where the work actually happens and observe, rather than relying on reports. **Standardize-Do-Check-Act**: create a standard, follow it, measure the results, and adjust. These aren't revolutionary on their own, but practiced consistently, they create a culture where improvement is the default rather than the exception.
+
+The beautiful thing about kaizen is that it's democratic. You don't need to be a genius, or have special talent, or start from a position of advantage. You just need the willingness to get a tiny bit better today than you were yesterday. Stack enough of those days together and you'll look back and not recognize where you started.

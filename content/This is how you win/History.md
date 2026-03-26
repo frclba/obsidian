@@ -1,2 +1,15 @@
-* [[quilombo dos palmares]]
-* 
+# History
+
+Studying history isn't about memorizing dates and names -- it's about understanding patterns. Human nature doesn't change. Technology changes, institutions change, borders change, but the fundamental dynamics of power, greed, fear, cooperation, ambition, and resistance play out in remarkably similar ways across centuries and civilizations. If you understand history, you have a cheat code for understanding the present.
+
+[[Reading]] is the gateway to historical understanding. There's no shortcut here -- you need to read widely, from multiple perspectives, across different eras and geographies. Primary sources when possible, good secondary sources when not. The more you read, the more patterns you start to notice. Empires rise and fall in similar ways. Revolutions follow predictable stages. Economic bubbles inflate and burst with depressing regularity. Demagogues use the same playbook century after century.
+
+[[Political Cyclicity]] is one of the most powerful concepts you'll encounter in historical study. The idea that political systems go through predictable cycles -- from order to complacency to crisis to renewal -- shows up in thinkers from Polybius (who described the cycle of constitutions in ancient Rome) to Strauss-Howe (whose generational theory maps recurring patterns in American history). These cycles aren't deterministic, but they're real enough to be useful for understanding where we are and where we might be heading.
+
+The Brazilian history of [[quilombo dos palmares]] is a perfect example of why history matters beyond the dominant narratives. Palmares was a community of escaped enslaved people in colonial Brazil that survived for nearly a century, developing its own governance, agriculture, and culture. It's a story of resistance, self-organization, and human dignity under impossible conditions. These are the stories that mainstream history often overlooks, and they're some of the most important to know.
+
+[[Prudence]] -- the virtue of practical wisdom -- is the ultimate payoff of studying history. History doesn't repeat exactly, but it rhymes. When you've internalized enough historical patterns, you develop a sense for how situations are likely to evolve, what kinds of decisions tend to lead to what kinds of outcomes, and where the hidden risks and opportunities lie. This isn't fortune-telling -- it's informed pattern recognition. The person who has studied the history of financial panics will navigate the next one better than the person who hasn't. The leader who understands how past reforms succeeded or failed will design better ones.
+
+History also teaches humility. We tend to think our era is special -- that the challenges we face are unprecedented, that we're smarter than the people who came before us. History corrects that. People in every era thought their challenges were unprecedented. They were usually wrong. And the people of the past were not less intelligent than us -- they were operating with less information and different constraints, but their thinking was often remarkably sophisticated.
+
+The practical advice is simple: make history a regular part of your intellectual diet. Read a biography. Read about a war, a revolution, an economic crisis. Read about a civilization you know nothing about. Every time you invest in understanding the past, you're investing in better judgment for the future.

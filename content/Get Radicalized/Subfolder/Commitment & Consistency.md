@@ -1,3 +1,5 @@
+[[Start Here]] | [[Influence]] | [[Diligence]] | [[Fortitude]]
+
 # How to Stay Committed & Consistent (Mastery Level)
 
 Once we commit to something – we feel an overwhelming need to stay consistent with that commitment.

@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Software Architecture: The Hard Parts** by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani provides a comprehensive guide to navigating the complexities of modern distributed architectures. The book emphasizes trade-off analysis as a critical skill for architects, offering insights into making informed decisions amidst competing architectural demands.
 

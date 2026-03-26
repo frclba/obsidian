@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 **Low-Code AI: A Practical Project-Driven Introduction to Machine Learning** by Gwendolyn Stripling and Michael Abel is a comprehensive guide aimed at making machine learning (ML) accessible through low-code and no-code solutions. The book emphasizes a data-first approach and is designed for business analysts, data analysts, and aspiring citizen data scientists who wish to integrate ML into their work without extensive coding experience.
 

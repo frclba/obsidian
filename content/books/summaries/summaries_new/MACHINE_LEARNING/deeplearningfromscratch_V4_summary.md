@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 **Deep Learning from Scratch** by Seth Weidman provides a comprehensive exploration of neural networks and deep learning, focusing on building these models from first principles using Python. The book addresses the gap in existing resources, which often either provide dense mathematical theory or code examples without sufficient explanation.
 

@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 # Summary of "Deep Learning for Computer Vision"
 

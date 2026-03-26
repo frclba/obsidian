@@ -1,0 +1,15 @@
+# Agile Analysis
+
+Agile analysis is how you figure out what to build without falling into the trap of "analyze everything upfront before writing a single line of code." It's the practice of doing requirements analysis, business analysis, and design exploration in an iterative, just-in-time manner that keeps pace with agile development.
+
+The traditional approach to analysis was to spend weeks or months gathering and documenting every requirement before development starts. The problem is obvious in retrospect: you can't know everything upfront, requirements change, stakeholders change their minds, and by the time you're done analyzing, the market has shifted. [[Agile Requirements]] flips this by treating requirements as a continuous conversation rather than a one-time document. You do enough analysis to understand the next chunk of work, build it, get feedback, and then analyze the next chunk.
+
+In practice, agile analysis looks like this: at the beginning of a project, you do some high-level analysis to understand the scope and identify the major themes. Then, before each iteration, you do more detailed analysis on the stories that are coming up next. You write acceptance criteria, create quick models, clarify edge cases, and make sure the team understands what "done" looks like. This feeds directly into [[Agile Design]] -- once you understand what needs to be built, you can figure out how to build it.
+
+[[Active Stakeholder Participation]] is what makes agile analysis actually work. If your stakeholders aren't available for regular conversations, clarifications, and feedback, agile analysis breaks down. You end up guessing, which is worse than doing upfront analysis because at least upfront analysis involves asking someone. The ideal is having a product owner or business representative embedded with the team who can answer questions in real-time. The reality is usually somewhere between that and scheduling regular touchpoints.
+
+One of the key skills in agile analysis is knowing how much detail is enough. Too little and the developers are guessing. Too much and you've wasted time on details that might change. The sweet spot depends on your team -- experienced developers in a familiar domain need less analysis than a new team in an unfamiliar domain. The best analysts develop a feel for this over time.
+
+Techniques that work well in agile analysis include user story mapping (to understand the big picture), example mapping (to clarify acceptance criteria through concrete examples), and domain modeling (to make sure everyone shares the same vocabulary). None of these need to produce formal documents -- a shared whiteboard, some sticky notes, or a quick sketch is usually enough.
+
+The mindset shift is this: analysis isn't a phase, it's an ongoing activity. You never stop learning about what your users need. Every sprint review, every support ticket, every usage metric is a form of analysis. The teams that embrace this continuous learning loop build dramatically better products than the ones that try to get all the analysis done upfront.

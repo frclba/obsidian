@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Agile Architecture]]
 
 # Zero Trust Networks: Building Secure Systems in Untrusted Networks
 

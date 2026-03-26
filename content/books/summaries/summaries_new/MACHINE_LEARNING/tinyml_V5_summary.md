@@ -1,4 +1,6 @@
 
+Related: [[Machine Learning]] | [[Data crunching]]
+
 **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers**
 
 TinyML focuses on deploying machine learning (ML) models on microcontrollers, using TensorFlow Lite. The book is authored by Pete Warden and Daniel Situnayake and provides insights into building and deploying ML applications on resource-constrained devices like Arduino and SparkFun Edge.

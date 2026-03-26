@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Building Evolutionary Architectures** by Neal Ford, Rebecca Parsons, Patrick Kua, and Pramod Sadalage explores the necessity for software architectures to evolve in response to rapidly changing business and technology landscapes. This second edition focuses on techniques for creating agile architectures capable of adapting to constant change, emphasizing the importance of viewing architecture not as a static entity but as a dynamic, enabling force.
 

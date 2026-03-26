@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 James Urquhart's "Flow Architectures: The Future of Streaming and Event-Driven Integration" explores the evolution of software integration and its impact on economic processes. The book emphasizes the importance of flow architectures in modern distributed systems, which rely on service-oriented architecture components and event stream processing to enhance connectivity, efficiency, and innovation.
 

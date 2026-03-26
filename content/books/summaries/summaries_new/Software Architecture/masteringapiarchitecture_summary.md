@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 "Mastering API Architecture" by James Gough, Daniel Bryant, and Matthew Auburn provides a comprehensive guide to designing, operating, and evolving API-based systems. The book addresses the critical role of APIs in modern software architecture, emphasizing the need for clear communication between services. It focuses on creating robust API platforms and offers practical strategies for building and testing REST APIs, utilizing API gateways, and implementing service meshes.
 

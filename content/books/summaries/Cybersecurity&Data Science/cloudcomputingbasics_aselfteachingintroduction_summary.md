@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 # Summary of Cloud Computing Basics
 

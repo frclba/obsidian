@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[how_to_software_engineer]]
 
 # Summary of "Software Supply Chain Security" by Cassie Crossley
 

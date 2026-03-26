@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Coding]]
 
 # Summary of "Network Programmability & Automation: Skills for the Next-Generation Network Engineer"
 

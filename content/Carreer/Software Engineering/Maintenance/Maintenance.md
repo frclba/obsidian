@@ -1,1 +1,15 @@
-[[Quality]]
+# Maintenance
+
+Software maintenance is the unglamorous, under-appreciated phase that actually consumes the majority of a software system's total cost of ownership. Some estimates put it at 60-80% of total lifecycle costs. Yet it gets a fraction of the attention that new development does. Building new things is exciting; keeping old things running is not. But this is where the real work happens.
+
+Maintenance comes in several flavors. **Corrective maintenance** is fixing bugs -- something's broken and you need to patch it. **Adaptive maintenance** is updating software to work in a changed environment -- new OS versions, new APIs, new regulations. **Perfective maintenance** is improving existing functionality -- making it faster, more usable, or more capable. And **preventive maintenance** is refactoring and restructuring to prevent future problems. All four are essential, but most organizations are trapped in a cycle of corrective and adaptive maintenance with no time left for the perfective and preventive work that would reduce the other two.
+
+[[Quality]] is the single biggest lever you have in maintenance. Systems that were built with care -- clean code, good test coverage, sensible architecture, meaningful documentation -- are dramatically easier and cheaper to maintain. Systems that were hacked together under deadline pressure become maintenance nightmares. Every shortcut taken during development creates a maintenance tax that compounds over time. This is the real cost of technical debt, and it's almost always underestimated.
+
+If you want to understand [[how_to_software_engineer]] properly, you need to think about maintenance from day one. Write code as if the person who'll maintain it is a violent psychopath who knows where you live. (That's a classic quote for a reason.) Use meaningful names. Keep functions small. Write tests. Document the *why*, not just the *what*. Future you -- or future someone else -- will be grateful.
+
+[[Agile Legacy System Analysis]] provides strategies for dealing with the really hard maintenance cases: systems that are old, poorly understood, maybe written in obsolete technologies, but still critical to the business. These systems can't just be rewritten from scratch (that almost always fails). They need careful, incremental improvement -- strangler fig pattern, branch by abstraction, strategic refactoring. It's delicate surgery, not demolition.
+
+The cultural challenge with maintenance is that it's rarely visible or celebrated. Nobody throws a party when you refactor a module to be more maintainable. Nobody posts on LinkedIn about the critical patch they deployed at 2 AM. But these are the people who keep the digital world running. Good engineering organizations recognize this and create incentives and career paths for people who excel at maintenance work, not just greenfield development.
+
+The best thing you can do for future maintainability is keep things simple. Resist the urge to use clever abstractions, exotic patterns, or the latest framework just because you can. Boring technology, straightforward code, and clear documentation are the maintenance team's best friends.

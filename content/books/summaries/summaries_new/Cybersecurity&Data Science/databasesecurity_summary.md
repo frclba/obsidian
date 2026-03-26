@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The text outlines the legal and technical aspects of a book on database security, emphasizing the licensing terms and limitations on usage, reproduction, and liability. It explains that the book is sold "as is" without warranty, and the publisher, Mercury Learning and Information (MLI), disclaims liability for any damages arising from its use. The book covers key topics in database security, including confidentiality, integrity, and availability, which are foundational principles of information security.
 

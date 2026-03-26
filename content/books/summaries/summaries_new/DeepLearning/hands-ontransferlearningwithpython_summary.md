@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Hands-On Transfer Learning with Python** focuses on leveraging pre-trained models to extend machine learning capabilities beyond their original tasks, optimizing resource use and addressing data scarcity. The book integrates theoretical concepts with practical applications using Python's deep learning frameworks, such as TensorFlow and Keras.
 

@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]] | [[Blockchains]] | [[Descentralized Finance]]
 
 # Summary of "Blockchain, Bitcoin, and the Digital Economy"
 

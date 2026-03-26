@@ -1,4 +1,6 @@
 
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
+
 Wireless sensor networks (WSNs) are distributed networks of sensor nodes that monitor environments by measuring physical parameters like temperature and humidity. These nodes, equipped with processing capabilities, memory, RF transceivers, and power sources, communicate wirelessly and often self-organize. WSNs are anticipated to revolutionize various fields, including environmental monitoring, healthcare, military, and smart infrastructure.
 
 **Environmental Monitoring:** WSNs can detect pollutants, monitor forest fires, air quality, and rainfall, providing critical data for managing environmental issues.

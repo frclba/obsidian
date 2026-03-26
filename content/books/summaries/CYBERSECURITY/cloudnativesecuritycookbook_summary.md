@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Agile Architecture]]
 
 # Cloud Native Security Cookbook Summary
 

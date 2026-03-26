@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 This text outlines the licensing, liability, and warranty details for a book on data analytics by Christopher Greco, published by Mercury Learning and Information. The license allows usage of the book's content but not ownership, and prohibits online distribution without permission. The publisher disclaims liability for any damages resulting from the use of the book's content, algorithms, or software, offering only a replacement for defective materials.
 

@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 **Deep Learning for Coders with fastai & PyTorch** by Jeremy Howard and Sylvain Gugger is a comprehensive guide aimed at making deep learning accessible to individuals without a PhD. The book is praised for its interactive approach, allowing readers to run code in notebooks, and effectively bridges complex AI concepts with practical applications.
 

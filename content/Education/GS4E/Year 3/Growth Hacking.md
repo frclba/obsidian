@@ -1,0 +1,15 @@
+# Growth Hacking
+
+Growth hacking is the practice of using creative, low-cost, data-driven strategies to acquire and retain customers. The term was coined by Sean Ellis in 2010, and it sits at the intersection of [[Marketing]], product development, and engineering. Unlike traditional marketing, which tends to think in campaigns and brand awareness, growth hacking is obsessed with measurable, scalable growth.
+
+The mindset is fundamentally experimental. A growth hacker doesn't say "let's run a brand campaign and see if sales go up eventually." They say "let's run 20 small experiments this week, measure the results, double down on what works, and kill what doesn't." It's the scientific method applied to customer acquisition. Hypothesis, test, measure, learn, repeat. This is where [[Data crunching]] becomes essential -- you need to be able to collect, analyze, and act on data quickly. If you can't measure it, you can't hack it.
+
+The classic growth hacking examples are legendary by now. Hotmail adding "Get your free email at Hotmail" to every outgoing email. Dropbox giving extra storage for referrals. Airbnb cross-posting listings to Craigslist. These weren't traditional marketing tactics -- they were product-level hacks that turned users into distribution channels. The product *was* the marketing.
+
+[[Lean Startup]] thinking is the philosophical backbone of growth hacking. Both share the emphasis on experimentation, rapid iteration, and validated learning. The difference is that lean startup is about finding product-market fit, while growth hacking kicks in after you've found it and need to scale. You wouldn't growth hack a product that nobody wants -- that's just pouring gasoline on wet wood.
+
+[[Branding]] has an interesting relationship with growth hacking. Purists on both sides can be dismissive of the other. Brand people think growth hackers are short-term thinkers who sacrifice brand equity for vanity metrics. Growth hackers think brand people are spending millions on unmeasurable warm fuzzies. The truth is you need both. Growth hacking gets people in the door; branding keeps them loyal and turns them into advocates. The best companies do both simultaneously.
+
+The growth hacking toolkit includes things like: A/B testing (testing two versions of something to see which performs better), viral loops (building sharing mechanics into the product), SEO optimization, email automation, content marketing, referral programs, and conversion rate optimization. None of these are individually revolutionary -- the growth hacking part is in the speed, rigor, and creativity with which you deploy and iterate on them.
+
+One important caveat: growth hacking without a good product is a recipe for failure. You might hack your way to a million signups, but if the product doesn't deliver value, those users will churn faster than you can replace them. Retention is the unsexy but critical metric that separates sustainable growth from a leaky bucket. Fix the bucket before you turn on the hose.

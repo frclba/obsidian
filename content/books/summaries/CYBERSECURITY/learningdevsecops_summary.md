@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[how_to_software_engineer]] | [[Agile Architecture]]
 
 # Summary of "Learning DevSecOps: A Practical Guide to Processes and Tools"
 

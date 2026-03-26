@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Microservices: Up and Running** by Ronnie Mitra and Irakli Nadareishvili is a comprehensive guide to building microservices architecture. The book provides practical, opinionated advice derived from real-world experiences, focusing on team design, domain design, infrastructure, engineering, and release processes.
 

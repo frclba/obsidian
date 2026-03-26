@@ -1,4 +1,6 @@
 
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
+
 **Unity Artificial Intelligence Programming (Fourth Edition)** focuses on integrating AI into games using Unity 2018. The book is authored by Dr. Davide Aversa, Aung Sithu Kyaw, and Clifford Peters, and published by Packt Publishing. It covers a range of AI techniques applicable to game development, emphasizing practical implementation in Unity.
 
 ### Key Topics Covered:

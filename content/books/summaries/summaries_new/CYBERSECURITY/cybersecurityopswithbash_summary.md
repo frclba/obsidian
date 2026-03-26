@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Cybersecurity Ops with Bash** by Paul Troncone and Carl Albing is a comprehensive guide that emphasizes the importance of command-line proficiency in cybersecurity operations. The book is structured to provide insights into using bash for various security tasks, enhancing a practitioner's ability to perform complex operations efficiently.
 

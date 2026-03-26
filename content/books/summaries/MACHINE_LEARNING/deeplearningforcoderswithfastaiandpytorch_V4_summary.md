@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 # Deep Learning for Coders with fastai and PyTorch: Summary
 

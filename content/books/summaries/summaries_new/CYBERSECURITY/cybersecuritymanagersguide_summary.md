@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **The Cybersecurity Manager’s Guide** by Todd Barnum provides a roadmap for building or revisiting an InfoSec program through a seven-step process. Barnum emphasizes the art of InfoSec, which is often overlooked compared to the scientific aspects outlined in the eight domains of InfoSec. The book is based on Barnum's 25 years of experience in the field, highlighting the differences between military and corporate InfoSec cultures.
 

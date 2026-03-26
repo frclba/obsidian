@@ -1,1 +1,15 @@
-[[how_to_software_engineer]]
+# Coding
+
+Coding is not just a career skill -- it's a thinking skill. Learning to program changes how your brain processes problems, even problems that have nothing to do with computers. It teaches you to break complex things into smaller pieces, think in systems, handle edge cases, and iterate toward solutions. That's why it belongs in [[This is how you win]] -- not because everyone needs to become a software engineer, but because the mental models you develop from coding are applicable everywhere.
+
+[[how_to_software_engineer]] gets into the professional side of things -- the practices, principles, and methodologies that make you effective in a software team. But coding as a personal skill goes beyond professional software development. It's about being able to automate the tedious parts of your life, build tools that solve your specific problems, and understand the technology that increasingly mediates every aspect of modern existence.
+
+The biggest misconception about coding is that it's about memorizing syntax. It's not. Syntax is the easy part -- you can look that up. The hard part is learning to think computationally: how to model a problem as data and operations, how to decompose a big task into small functions, how to handle the cases where things go wrong (because they always do). This kind of thinking is a muscle that gets stronger with practice, and it transfers directly to non-coding domains like project management, decision-making, and even cooking.
+
+[[Machine Learning]] is the frontier where coding meets something that feels almost magical. With relatively straightforward code, you can build systems that recognize faces, translate languages, generate images, and predict outcomes from data. It's one of the most exciting areas to code in right now because the tools have become accessible enough that you don't need a PhD to build meaningful ML applications. You need solid coding fundamentals, some linear algebra, and the willingness to experiment.
+
+One of the underrated benefits of coding is that it gives you leverage. A lawyer who can code can automate parts of contract review. A marketer who can code can build their own analytics dashboards. A scientist who can code can process datasets that would take months to handle manually. In a world where everyone has the same tools, the person who can customize and extend those tools has an enormous advantage.
+
+The best way to learn coding is to build things you actually care about. Tutorials and courses are fine for getting started, but real learning happens when you have a problem you want to solve and you have to figure out how to make the computer solve it. It doesn't matter if the code is ugly. It doesn't matter if there's a library that already does it. The act of wrestling with the problem is where the learning lives.
+
+Start with one language. Python is the obvious choice for general-purpose learning -- it's readable, versatile, and has libraries for everything. Build something small. Then build something slightly bigger. Then build something that connects to an API, or processes a file, or automates something you do manually every week. Each project teaches you things that no tutorial can. That's the path.

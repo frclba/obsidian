@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Deep Learning for Computer Vision** by Rajalingappaa Shanmugamani explores advanced techniques for training neural networks using TensorFlow and Keras. The book is designed to provide readers with a comprehensive understanding of deep learning applications in computer vision, covering topics such as image classification, retrieval, object detection, semantic segmentation, similarity learning, image captioning, generative models, video classification, and model deployment.
 

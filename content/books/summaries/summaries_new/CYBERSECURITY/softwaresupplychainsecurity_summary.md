@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Software Supply Chain Security: Key Insights**
 

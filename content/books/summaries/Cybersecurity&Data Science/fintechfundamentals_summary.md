@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]] | [[Descentralized Finance]]
 
 # Summary of Fintech Fundamentals
 

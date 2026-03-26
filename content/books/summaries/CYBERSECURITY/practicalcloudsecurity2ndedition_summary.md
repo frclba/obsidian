@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Agile Architecture]]
 
 # Practical Cloud Security: Key Insights
 

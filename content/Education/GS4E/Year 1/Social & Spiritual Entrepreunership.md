@@ -1,1 +1,15 @@
-# [[MARS COLLEGE]]
+# Social & Spiritual Entrepreneurship
+
+Social and spiritual entrepreneurship is about building ventures that prioritize impact over profit -- or more accurately, that see profit as a tool for impact rather than an end in itself. It's the recognition that business can be a force for good in the world, not just a wealth extraction mechanism.
+
+Social entrepreneurship applies the creativity, resourcefulness, and scalability of traditional entrepreneurship to social problems. Think Muhammad Yunus and Grameen Bank (microfinance for the poor), Tom's Shoes (one-for-one giving model), or organizations working on clean water, education, and healthcare in underserved communities. The key insight is that market-based approaches can often solve social problems more sustainably than pure charity, because they create self-reinforcing systems rather than dependency.
+
+The spiritual dimension adds something deeper. It's about entrepreneurship as a practice -- as a way of growing, serving, and expressing your values in the world. This isn't about religion specifically, though it can be informed by spiritual traditions. It's about the question "what is my business *for*?" beyond making money. Projects like [[MARS COLLEGE]] embody this spirit -- creating experimental communities that blend learning, technology, and intentional living in ways that challenge conventional models of education and work.
+
+[[Charity]] is the traditional model for addressing social problems, and it has its place. But one of the tensions that social entrepreneurship highlights is that charity can create dependency, doesn't always scale, and often addresses symptoms rather than root causes. Social enterprises try to build systems that solve problems at the structural level. The debate between "give people fish" (charity) and "teach people to fish" (social enterprise) is an oversimplification, but it captures a real and important distinction.
+
+[[Ethics]] sits at the heart of this whole conversation. When you're building a business that claims to do good in the world, the ethical stakes are higher. Are you actually creating the impact you claim? Are you measuring it honestly? Are you being transparent about tradeoffs? There's a real danger of "impact washing" -- using the language of social good as a marketing tool without the substance to back it up. Genuine social entrepreneurship requires rigorous honesty about what's working and what's not.
+
+The spiritual side of entrepreneurship also addresses the personal dimension: how do you maintain your integrity, your wellbeing, and your sense of purpose while navigating the brutal realities of building something from nothing? How do you make hard decisions that affect people's lives without losing your moral compass? These aren't questions that MBA programs typically address, but they're some of the most important questions an entrepreneur can ask.
+
+The world needs more people who see entrepreneurship as a vehicle for meaning, not just money. The problems we face -- inequality, environmental degradation, mental health crises, broken education systems -- are too big for governments and NGOs to solve alone. Entrepreneurial approaches that blend economic sustainability with genuine social impact might be our best shot at addressing them at scale.

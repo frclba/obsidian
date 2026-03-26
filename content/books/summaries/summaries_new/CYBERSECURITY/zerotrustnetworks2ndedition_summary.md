@@ -1,4 +1,6 @@
 
+Related: [[Information Security (InfoSec)]]
+
 The book "Zero Trust Networks" by Razi Rais, Christina Morillo, Evan Gilman, and Doug Barth offers an in-depth exploration of the zero trust security model, a significant shift from traditional perimeter-based security. This model operates on the principle of "never trust, always verify," assuming that threats could be internal or external and emphasizing the need for continuous verification of all interactions within a network.
 
 Key concepts of zero trust include trust engines, policy engines, and context-aware agents, which are integral to embedding security within system operations. The book provides practical guidance for transitioning from perimeter-based networks to zero trust architectures, supported by real-world scenarios and case studies. These case studies illustrate various organizational journeys toward implementing zero trust, offering insights into challenges and solutions.

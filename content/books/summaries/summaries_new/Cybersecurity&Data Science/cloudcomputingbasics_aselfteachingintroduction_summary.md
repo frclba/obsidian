@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 Cloud computing represents a significant shift in how computing resources are utilized, focusing on distributed systems where resources are shared across networks to improve efficiency and performance. Key trends in distributed computing include peer-to-peer (P2P) computing, cluster computing, utility computing, grid computing, cloud computing, fog computing, and jungle computing. Each model offers distinct advantages and challenges, with cloud computing emerging as a versatile and scalable solution.
 

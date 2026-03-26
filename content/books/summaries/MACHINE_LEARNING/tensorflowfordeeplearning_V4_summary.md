@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 # Summary of "TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning"
 

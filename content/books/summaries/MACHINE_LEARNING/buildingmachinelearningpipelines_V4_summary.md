@@ -1,3 +1,5 @@
+Related: [[Machine Learning]] | [[Data crunching]]
+
 # Summary of "Building Machine Learning Pipelines"
 
 "Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow" by Hannes Hapke and Catherine Nelson is a comprehensive guide that explores the construction of automated, scalable, and reproducible machine learning (ML) pipelines. The book is highly praised by industry experts for its clarity and practical examples, making it an essential resource for data scientists, ML engineers, software engineers, and DevOps professionals.

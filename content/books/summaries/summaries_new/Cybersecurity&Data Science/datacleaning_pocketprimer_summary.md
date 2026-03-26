@@ -1,4 +1,5 @@
-markdown
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
+
 The "Data Cleaning Pocket Primer" is a resource designed for data scientists and analysts to effectively use Unix/Linux shell commands for data manipulation and cleaning tasks. The book focuses on the bash command set, providing both introductory concepts and practical shell scripts. It emphasizes the use of piping, regular expressions, and commands like `sed` and `awk`.
 
 The text outlines licensing terms, specifying that the content is for use only and not for reproduction without permission. It provides no warranties on the performance of the material, offering only replacement for defective physical copies.

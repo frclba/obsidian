@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Inside Cyber Warfare** by Jeffrey Caruso delves into the complexities and implications of cyber warfare, focusing on recent developments in Ukraine and the Middle East. The book highlights how cyber attacks can cause physical destruction and discusses the integration of cognitive and maneuver warfare. Caruso, a cybersecurity expert, provides insights into the operations of Ukraine's Ministry of Defense cyber units, especially following the 2022 Russian invasion.
 

@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 **Machine Learning with Python Cookbook** by Kyle Gallatin and Chris Albon is a comprehensive resource offering over 200 practical recipes to tackle machine learning challenges using Python. The cookbook is designed for those familiar with Python libraries such as pandas and scikit-learn, providing solutions from data loading to deep learning.
 

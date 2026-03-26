@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Foundations of Scalable Systems** by Ian Gorton is a comprehensive guide to designing distributed architectures that can scale efficiently. The book addresses the challenges of scalability, particularly as user demand grows, turning initial design decisions into technical debt. It provides practical solutions and foundational principles for building scalable distributed systems, focusing on key components such as replication, state management, load balancing, and caching.
 

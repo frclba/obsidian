@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The book "Big Data Using Hadoop and Hive" serves as an essential guide for developers, architects, and engineers interested in leveraging Hadoop for building distributed, scalable applications. It covers Hadoop 3 and Hive 3.x, detailing their architecture, functionalities, and practical applications.
 

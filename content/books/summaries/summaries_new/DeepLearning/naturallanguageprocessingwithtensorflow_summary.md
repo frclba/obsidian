@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 "Natural Language Processing with TensorFlow" by Thushan Ganegedara explores the integration of NLP and deep learning using TensorFlow. It covers traditional and deep learning approaches to NLP, emphasizing the transition from rule-based and statistical methods to neural network-based techniques. Key topics include word embeddings, sentence classification, and neural networks like CNNs, RNNs, and LSTMs.
 

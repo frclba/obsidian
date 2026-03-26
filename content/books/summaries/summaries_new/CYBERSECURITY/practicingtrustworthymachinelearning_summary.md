@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 "Practicing Trustworthy Machine Learning" by Yada Pruksachatkun, Matthew McAteer, and Subhabrata Majumdar provides a practical guide for developing machine learning (ML) models that are fair, private, explainable, and robust. This book addresses the need for trustworthy AI systems, especially in high-stakes domains like medicine, law, and defense, where model decisions can have significant consequences.
 

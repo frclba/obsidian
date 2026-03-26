@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Agile Architecture]]
 
 # Summary of "Security and Microservice Architecture on AWS"
 

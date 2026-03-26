@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Policy as Code (PaC) Overview**
 

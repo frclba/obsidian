@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 # Summary of "Flow Architectures: The Future of Streaming and Event-Driven Integration" by James Urquhart
 

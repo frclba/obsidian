@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith by Sam Newman**
 

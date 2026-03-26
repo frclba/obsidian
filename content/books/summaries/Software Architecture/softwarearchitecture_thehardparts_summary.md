@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 # Summary of "Software Architecture: The Hard Parts"
 

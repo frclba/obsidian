@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 The "Defensive Security Handbook" by Amanda Berlin, Lee Brotherston, and William F. Reyor III offers a comprehensive guide for organizations to enhance their cybersecurity posture, especially those with limited budgets. It provides step-by-step instructions and practical strategies across several key areas of defensive security.
 

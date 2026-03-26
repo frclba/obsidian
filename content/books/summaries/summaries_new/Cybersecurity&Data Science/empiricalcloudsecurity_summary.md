@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The "Empirical Cloud Security" book provides a comprehensive guide on cloud security, emphasizing methodologies, strategies, and best practices to secure cloud infrastructure and applications. It highlights the importance of securing the cloud to ensure data confidentiality, availability, and integrity, given the increasing targeting by threat actors.
 

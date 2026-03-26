@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Intelligence-Driven Incident Response** by Rebekah Brown and Scott J. Roberts is a comprehensive guide for cybersecurity professionals, focusing on the integration of cyber threat intelligence (CTI) into incident response processes. This second edition emphasizes the importance of an intelligence-driven approach to enhance both threat intelligence and incident response, providing a strategic advantage in cybersecurity defense.
 

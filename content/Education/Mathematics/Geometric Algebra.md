@@ -1,0 +1,15 @@
+# Geometric Algebra
+
+Geometric algebra is one of those mathematical frameworks that makes you wonder why it isn't taught everywhere. It's a unification of many different mathematical systems -- vectors, complex numbers, quaternions, spinors, differential forms -- all under one consistent, elegant roof. Once you learn it, going back to the patchwork of separate formalisms feels clunky.
+
+The foundation of geometric algebra is the "geometric product," which combines the dot product and the wedge product (an extension of the cross product) into a single operation. This sounds like a minor notational convenience, but it turns out to be incredibly powerful. The geometric product lets you multiply vectors together in a way that captures both their magnitude relationship (how aligned they are) and their orientation relationship (the plane they define).
+
+The connection to [[Linear Algebra]] is deep -- geometric algebra is essentially linear algebra upgraded with a better multiplication operation. Standard linear algebra gives you vectors and matrices, which are great for computation but often obscure the geometric meaning of what you're doing. Geometric algebra keeps the geometry front and center. Rotations, reflections, projections, and intersections all have clean, intuitive representations that don't require you to juggle matrix indices.
+
+One of the killer applications is in physics and computer graphics. Rotations in 3D are notoriously confusing with traditional tools -- Euler angles have gimbal lock, rotation matrices are hard to interpolate, and quaternions work great but feel like magic because they lack geometric intuition. In geometric algebra, a rotation is just multiplication by a rotor, which has a clear geometric meaning: it's the product of two vectors that define the plane of rotation. Simple, composable, and free of singularities.
+
+The relationship to [[Discrete Mathematics]] is less direct but still present. Geometric algebra provides algebraic structures (Clifford algebras) that appear in combinatorics, graph theory, and coding theory. The exterior algebra (which is a subset of geometric algebra) is used extensively in topology and discrete geometry.
+
+What makes geometric algebra beautiful is its dimensional scalability. The same operations that work in 2D work in 3D, 4D, and arbitrary dimensions without modification. You don't need separate tricks for each dimension. This unification is not just aesthetically pleasing -- it means you learn one framework and can apply it everywhere, from electromagnetism to general relativity to robotics to machine learning.
+
+The main barrier to adoption is inertia. Linear algebra and its various companion tools (complex numbers, quaternions, tensors) are deeply entrenched in education and industry. Learning geometric algebra requires unlearning some habits and rebuilding intuition. But for anyone doing work that involves geometry, physics, or 3D computation, the investment pays off generously. It's one of those topics where you keep finding yourself saying "wait, *that's* what that formula really means?"

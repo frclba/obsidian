@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The book "Computer Security and Encryption" explores critical concepts in cybersecurity and cryptography, focusing on security models and practices. It emphasizes the importance of confidentiality, authentication, integrity, non-repudiation, access control, and availability as fundamental principles of security. Various types of attacks, both theoretical and practical, including Java security issues and specific attack methods, are discussed.
 

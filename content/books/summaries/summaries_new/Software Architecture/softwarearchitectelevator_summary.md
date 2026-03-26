@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **The Software Architect Elevator by Gregor Hohpe** redefines the role of architects in the digital enterprise. It emphasizes the necessity for architects to bridge the gap between business strategy and technical implementation. The book is praised by industry experts like Mark Richards and Schahram Dustdar for its insightful and practical approach, blending technical and organizational perspectives.
 

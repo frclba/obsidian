@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Python Deep Learning Second Edition** explores deep learning techniques using PyTorch, Keras, and TensorFlow. The book is authored by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, and Valentino Zocca, and published by Packt Publishing in 2019. It provides an in-depth look into various neural network architectures and their applications in computer vision, NLP, and more.
 

@@ -1,0 +1,15 @@
+# Modeling Strategies in Agile
+
+Modeling in an agile context is not about creating comprehensive, perfectly detailed diagrams that sit in a binder nobody opens. It's about using models as thinking tools -- quick, collaborative, disposable artifacts that help teams understand what they're building and why. The [[Agile Modeling Strategies]] framework gives us a handful of approaches that each serve different purposes depending on where you are in the project.
+
+The most common modeling strategy is [[Model Storming]], which is basically just-in-time modeling. A couple of developers are about to start a story and they're not sure how to approach it. They grab a whiteboard, sketch out some ideas for five or ten minutes, get clarity, and then go code. No formal meeting, no ceremony, no documentation artifacts. Just enough modeling to move forward. This happens dozens of times a day on healthy agile teams and it's probably the most valuable modeling activity you can do.
+
+Then there's [[Agile Modeling Session]]s, which are more structured. These are planned sessions -- maybe an hour or two -- where the team comes together to work through a bigger design challenge. Maybe you're starting a new epic and need to think about the overall approach, or maybe you've hit a point where the existing architecture needs to evolve. These sessions are collaborative, usually whiteboard-based, and focused on producing a shared understanding rather than a polished document.
+
+[[Look-Ahead Modeling]] is about being proactive with your design thinking. Instead of waiting until you're in the middle of implementation to discover a design challenge, you look ahead one or two iterations and start thinking about the tricky parts early. This doesn't mean you go back to waterfall-style upfront design -- it just means you give your brain time to chew on the hard problems before they become urgent. Sometimes the best design insights come when you're not actively trying to solve the problem.
+
+The key principle across all these strategies is that models are a means to an end, not the end itself. The purpose of a model is to spark conversation, explore alternatives, and build shared understanding. Once it's served that purpose, the model's job is done. You might take a photo of the whiteboard for reference, or you might just erase it. The understanding lives in the team's heads and in the code, not in the diagram.
+
+One thing people struggle with is knowing which strategy to use when. A good rule of thumb: if the problem is small and localized, model storm it. If it crosses component boundaries or involves multiple team members, schedule a modeling session. If it's a known upcoming challenge, do some look-ahead modeling. And if you're at the very beginning of a project, do some initial envisioning to get the big picture right.
+
+The beauty of agile modeling is that it makes design a team sport. Nobody is hiding in a corner producing the "one true architecture." Everyone contributes, everyone learns, and the resulting design is better because it's been challenged and refined by multiple perspectives.

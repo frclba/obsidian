@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 **Data Science for IoT Engineers: Key Concepts**
 

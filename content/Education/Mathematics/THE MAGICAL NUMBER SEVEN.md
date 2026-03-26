@@ -1,1 +1,15 @@
-https://en.m.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
+# The Magical Number Seven, Plus or Minus Two
+
+In 1956, cognitive psychologist George A. Miller published one of the most influential papers in the history of psychology: "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information." The core finding is that human working memory can hold roughly 7 (give or take 2) discrete items at once. This isn't a suggestion or a guideline -- it's a fundamental constraint of human cognition.
+
+Miller discovered this by looking at a range of experiments on absolute judgment and short-term memory. Whether people were trying to distinguish between tones of different pitch, remember sequences of digits, or identify points on a line, the same limit kept showing up: somewhere between 5 and 9 items. Below that range, people were reliable. Above it, errors spiked dramatically.
+
+This connects deeply to [[GESTALT PSYCHOLOGY]] because both are about how the mind organizes and processes information. The Gestalt psychologists showed that we perceive wholes, not just parts -- we group, we categorize, we find patterns. Miller's work extended this by showing that one of the primary strategies we use to overcome our memory limits is "chunking": grouping individual items into meaningful units. A phone number like 8005551234 is ten digits (exceeding our limit), but chunk it as 800-555-1234 and suddenly it's three groups (well within our limit). Each chunk acts as a single item in working memory, and the content of each chunk can be as rich as our long-term memory allows.
+
+The implications for [[Psychology]] and cognitive science are enormous. This capacity limit shapes how we learn, how we solve problems, how we make decisions, and how we experience the world. When you feel overwhelmed by too many choices, too many variables, or too much information, you're bumping up against Miller's number. It's not a personal weakness -- it's the architecture of the human mind.
+
+For [[Perception]] and design, Miller's Law is a foundational principle. It's why good menus have 5-7 items instead of 20. It's why effective presentations make 3-5 key points instead of 12. It's why phone numbers, zip codes, and credit card numbers are broken into chunks. Designers who understand this constraint create interfaces that work *with* human cognition rather than against it.
+
+The number seven isn't magic in a strict sense -- more recent research suggests the true capacity might be closer to 4 items for unrelated, unchunked information. But the broader insight is what matters: our conscious processing bandwidth is severely limited, and the key to effective thinking, communicating, and designing is working within those limits rather than pretending they don't exist.
+
+Chunking is the real takeaway. Experts aren't smarter than novices in terms of raw working memory capacity. They're better at chunking. A chess master doesn't remember the position of each individual piece -- they recognize patterns and configurations. A skilled programmer doesn't read code character by character -- they recognize idioms and patterns. Expertise is, in large part, the ability to chunk effectively in your domain.

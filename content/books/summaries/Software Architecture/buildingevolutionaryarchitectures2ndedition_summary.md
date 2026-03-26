@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 # Summary of "Building Evolutionary Architectures" (2nd Edition)
 

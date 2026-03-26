@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Machine Learning]]
 
 # Summary of "Practicing Trustworthy Machine Learning"
 

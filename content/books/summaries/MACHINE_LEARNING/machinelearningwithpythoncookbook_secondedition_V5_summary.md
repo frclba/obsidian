@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 # Machine Learning with Python Cookbook: Summary
 

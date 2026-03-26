@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 # Summary of "Mastering Machine Learning Algorithms"
 

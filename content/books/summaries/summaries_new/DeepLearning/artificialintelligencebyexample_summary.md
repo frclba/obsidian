@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Artificial Intelligence By Example** is a comprehensive guide by Denis Rothman, focusing on developing AI solutions from scratch using real-world cases. The book emphasizes adaptive thinking, machine learning, and deep learning, providing practical insights into AI technologies.
 

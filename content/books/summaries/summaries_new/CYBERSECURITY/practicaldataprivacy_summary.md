@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Practical Data Privacy** by Katharine Jarmul is an essential guide that addresses the increasing complexity and importance of data privacy in the face of regulations like GDPR and CCPA, along with the risk of data breaches. The book provides a comprehensive overview of modern privacy-enhancing technologies such as differential privacy, federated learning, and encrypted computation, and offers practical advice for integrating these technologies into data systems.
 

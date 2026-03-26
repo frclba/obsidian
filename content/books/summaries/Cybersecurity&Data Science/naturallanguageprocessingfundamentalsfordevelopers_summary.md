@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]] | [[Machine Learning]]
 
 # Summary of "Natural Language Processing Fundamentals for Developers"
 

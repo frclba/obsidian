@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 # Summary of "Dealing with Data Pocket Primer"
 

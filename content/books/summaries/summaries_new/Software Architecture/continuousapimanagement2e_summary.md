@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Continuous API Management** by Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, and Mike Amundsen is a comprehensive guide to managing APIs in an evolving digital landscape. The book emphasizes the importance of treating APIs as products, using a continuous lifecycle approach to maximize their value. It provides maturity models for individual APIs and multi-API landscapes, helping organizations invest resources appropriately based on maturity levels.
 

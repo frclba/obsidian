@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 ### Key Concepts in Application Security
 

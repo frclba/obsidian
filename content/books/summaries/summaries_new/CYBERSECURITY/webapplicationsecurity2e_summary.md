@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 Andrew Hoffman's "Web Application Security: Exploitation and Countermeasures for Modern Web Applications" is a comprehensive guide that addresses both offensive and defensive aspects of web application security. This second edition expands on the foundational concepts introduced in the first edition, focusing on the three pillars of application security: reconnaissance, offense, and defense. Hoffman, a senior staff security engineer at Ripple, leverages his dual expertise in software engineering and application security to provide valuable insights for both technical and non-technical audiences.
 

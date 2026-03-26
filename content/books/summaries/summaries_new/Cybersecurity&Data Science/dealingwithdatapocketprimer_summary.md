@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The "Dealing with Data Pocket Primer" by Oswald Campesato is a comprehensive guide designed for aspiring data scientists and those involved in data cleaning tasks. The book is structured to provide a fast-paced introduction to key concepts in probability, statistics, data processing, and data visualization, using tools like Pandas, SQL, and NLP techniques.
 

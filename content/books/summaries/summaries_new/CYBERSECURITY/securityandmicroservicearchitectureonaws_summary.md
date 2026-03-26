@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Security and Microservice Architecture on AWS** by Gaurav Raje provides a comprehensive guide to implementing secure and scalable microservice architectures using Amazon Web Services (AWS). The book targets readers with foundational knowledge of AWS, microservices, and security, aiming to integrate these elements effectively.
 

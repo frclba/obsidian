@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Learning Domain-Driven Design by Vlad Khononov** offers a comprehensive guide to applying Domain-Driven Design (DDD) principles to align software architecture with business strategies. The book is praised for its practical approach and insights into solving real business problems using DDD.
 

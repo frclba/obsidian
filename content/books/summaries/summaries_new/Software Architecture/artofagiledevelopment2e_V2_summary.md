@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **The Art of Agile Development, Second Edition** by James Shore, with contributions from Diana Larsen, Gitte Klitgaard, and Shane Warden, is a comprehensive guide to modern Agile practices. The book, praised by industry experts, offers valuable insights for both newcomers and seasoned professionals in Agile software development.
 

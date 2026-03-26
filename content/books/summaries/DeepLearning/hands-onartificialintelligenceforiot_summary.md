@@ -1,3 +1,5 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
+
 # Hands-On Artificial Intelligence for IoT
 
 **Author**: Amita Kapoor  

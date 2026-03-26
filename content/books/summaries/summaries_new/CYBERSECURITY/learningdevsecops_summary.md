@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Learning DevSecOps: A Practical Guide to Processes and Tools** by Steve Suehring is a comprehensive resource designed to help organizations integrate security into their DevOps processes effectively. The book emphasizes the importance of culture and processes over tools, aiming to break down silos between development, operations, and security teams.
 

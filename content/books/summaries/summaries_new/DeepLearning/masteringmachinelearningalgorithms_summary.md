@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 "Mastering Machine Learning Algorithms" by Giuseppe Bonaccorso is a comprehensive guide focused on implementing and fine-tuning popular machine learning algorithms. The book balances mathematical theory with practical examples in Python, aiming to provide a deep understanding of machine learning concepts and their applications.
 

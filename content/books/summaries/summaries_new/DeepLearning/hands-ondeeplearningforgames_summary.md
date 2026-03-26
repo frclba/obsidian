@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Hands-On Deep Learning for Games** by Micheal Lanham is a comprehensive guide that leverages neural networks and reinforcement learning to develop intelligent games. The book is structured to provide a hands-on approach, starting with the basics of deep learning and progressing to advanced techniques such as deep reinforcement learning (DRL).
 

@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[how_to_software_engineer]]
 
 # Summary of "97 Things Every Application Security Professional Should Know"
 

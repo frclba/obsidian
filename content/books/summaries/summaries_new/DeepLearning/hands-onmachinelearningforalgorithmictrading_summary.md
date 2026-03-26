@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Hands-On Machine Learning for Algorithmic Trading** by Stefan Jansen provides a comprehensive guide to designing and implementing investment strategies using machine learning (ML) in Python. The book is structured into several parts, covering a range of topics from foundational concepts to advanced applications in trading.
 

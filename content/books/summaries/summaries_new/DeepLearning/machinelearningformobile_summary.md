@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Machine Learning for Mobile** is a guide to developing intelligent mobile applications using machine learning, authored by Revathi Gopalakrishnan and Avinash Venkateswarlu. It covers the fundamentals of machine learning (ML) and its application on mobile devices, detailing tools and SDKs like TensorFlow Lite, Core ML, ML Kit, and Fritz for both iOS and Android platforms.
 

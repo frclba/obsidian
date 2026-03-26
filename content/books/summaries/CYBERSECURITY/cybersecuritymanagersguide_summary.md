@@ -1,7 +1,8 @@
+Related: [[Information Security (InfoSec)]] | [[Business management]]
 
 # Summary of "The Cybersecurity Manager’s Guide"
 
-**Author**: Todd Barnum  
+**Author**: Todd Barnum
 **Publisher**: O’Reilly Media  
 **First Edition**: March 2021
 

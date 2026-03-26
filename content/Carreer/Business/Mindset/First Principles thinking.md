@@ -1,1 +1,15 @@
-[[Screen Shot 2022-01-26 at 1.22.08 PM.png]]
+# First Principles Thinking
+
+First principles thinking is the practice of breaking a problem down to its most fundamental truths -- the things that are irreducibly true -- and then building your reasoning up from there. Instead of reasoning by analogy (which is what most of us do most of the time -- "this worked for someone else, so it'll work for me"), you strip away every assumption until you're left with the bedrock facts, and then you reconstruct your understanding from scratch.
+
+The classic example is Elon Musk and battery packs. Everyone in the industry said batteries cost $600 per kilowatt-hour and that's just how it is. First principles approach: what are batteries actually made of? Cobalt, nickel, aluminum, carbon, some polymers, a steel can. What do those raw materials cost on the commodity market? About $80 per kilowatt-hour. So the $600 price isn't a law of nature -- it's just the current state of the supply chain. That reframing opened the door to building batteries differently.
+
+This is deeply connected to [[Critical Thinking]] because both require you to question the assumptions everyone else takes for granted. The difference is that first principles thinking is more constructive -- you're not just poking holes in bad arguments, you're actively rebuilding from the ground up. It takes more effort, which is exactly why most people default to reasoning by analogy instead.
+
+[[Logic]] is your primary tool here. You need to be able to identify which parts of your reasoning are assumptions versus which parts are verifiable truths. Most of what we "know" about any domain is actually a stack of assumptions built on other assumptions. First principles thinking is the discipline of auditing that stack. What's actually true? What's just convention? What's true but only under certain conditions?
+
+This connects beautifully to [[Accurate Thinking]], which Napoleon Hill talked about -- the idea that you need to separate facts from opinions, and then separate important facts from unimportant ones. First principles thinking is basically the rigorous version of that. You're not just trying to think clearly; you're trying to think from the absolute foundation.
+
+One practical thing that makes first principles thinking so powerful is that it helps you [[Reject Most Advice]]. Not because advice is bad, but because most advice is contextual. Someone gives you advice based on their situation, their resources, their constraints, their era. First principles thinking forces you to ask: "Is that advice actually true for *my* situation, or is it just true for theirs?" More often than not, the conventional wisdom doesn't fully apply to your specific case.
+
+The downside of first principles thinking is that it's slow and mentally expensive. You can't do it for every decision -- you'd never get anything done. The skill is knowing when to apply it. For big, consequential decisions where the conventional approach seems inadequate? Absolutely go first principles. For what to have for lunch? Just use a heuristic.

@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]] | [[Automation & Artificial Intelligence (AI)]]
 
 # Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play
 

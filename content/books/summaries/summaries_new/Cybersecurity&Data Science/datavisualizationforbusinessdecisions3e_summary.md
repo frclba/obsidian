@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The book "Data Visualization for Business Decisions" by Andres Fortino, PhD, serves as a laboratory manual designed to enhance the skills of business analysts in creating effective visual presentations for business decision-making. It emphasizes the importance of transforming raw data visuals into compelling narratives that communicate key insights succinctly. The manual is structured around six dimensions of analysis, each with three aspects, totaling eighteen elements that guide the refinement of data visuals.
 

@@ -1,0 +1,15 @@
+# Classes
+
+In object-oriented programming, a class is essentially a blueprint for creating objects. It defines the data (attributes) and behavior (methods) that objects of that type will have. But when we talk about classes in the context of CRC (Class-Responsibility-Collaboration) cards, we're thinking about them at a higher, more design-oriented level -- before we ever write a line of code.
+
+CRC cards are an old-school but incredibly effective design tool. You take an index card, write the class name at the top, list its responsibilities on the left side, and list its collaborators (other classes it works with) on the right. The beauty of this approach is that it forces you to think about *what* a class does and *who* it talks to before you get lost in implementation details. It's design by conversation, which is exactly what [[how_to_software_engineer]] should emphasize more.
+
+When you're identifying classes for a CRC session, you typically start by looking at the nouns in your problem domain. "Customer," "Order," "Invoice," "Product" -- these are all candidate classes. But not every noun becomes a class. The art is in figuring out which concepts deserve to be their own entity with their own responsibilities, and which are just attributes of something else. Is "Address" its own class or just a string on "Customer"? Depends on the complexity of your domain.
+
+The responsibility part is where the real thinking happens. A class should have a cohesive set of responsibilities -- things that naturally belong together. If you're struggling to describe what a class does in a sentence or two, it's probably doing too much. This is the Single Responsibility Principle showing up at the design level before you've even opened your IDE. Each class should have one reason to change.
+
+Collaboration is about relationships. No class is an island -- they all need to work with other classes to get things done. The collaborators column on a CRC card makes these dependencies explicit and visible. If one class is collaborating with everything, that's a smell. If two classes are always collaborating on the same tasks, maybe they should be merged. These are the kinds of insights that fall out of CRC sessions naturally.
+
+What makes CRC cards so valuable is that they support [[Agile Design]] perfectly. They're low-fidelity, easy to change, and encourage group participation. You can lay cards out on a table, move them around, tear them up and start over. There's no sunk cost in a stack of index cards. Compare that to a detailed UML diagram that took someone three days to draw -- nobody wants to throw that away even when the design is wrong.
+
+The key insight with classes in OOP design is that they should model behavior, not just data. A class that's just a bag of getters and setters isn't really object-oriented -- it's just a struct with extra steps. Good classes encapsulate meaningful behavior and protect their internal state. That's what you should be discovering during the CRC process.

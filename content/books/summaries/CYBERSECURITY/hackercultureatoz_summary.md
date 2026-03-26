@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Open-source Intelligence (OSINT)]]
 
 # Summary of "Hacker Culture A to Z"
 

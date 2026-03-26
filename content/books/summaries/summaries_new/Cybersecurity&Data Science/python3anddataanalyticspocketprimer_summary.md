@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 ### Python 3 and Data Analytics Pocket Primer Overview
 

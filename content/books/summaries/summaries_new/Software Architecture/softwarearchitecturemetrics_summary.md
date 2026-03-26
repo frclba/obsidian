@@ -1,4 +1,6 @@
 
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
+
 **Software Architecture Metrics** is a practical guide focused on using metrics to enhance software architecture quality and maintainability. Authored by leading software architects, including Christian Ciceri, Dave Farley, Neal Ford, and others, the book provides real-world case studies and emphasizes practice over theory. It highlights the importance of metrics in identifying architectural and technical debt early, setting the right KPIs, and measuring outcomes effectively.
 
 Key topics include:

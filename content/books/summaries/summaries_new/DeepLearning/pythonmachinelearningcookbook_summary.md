@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 The "Python Machine Learning Cookbook Second Edition" by Giuseppe Ciaburro and Prateek Joshi is a comprehensive guide offering over 100 practical recipes for advancing from data analytics to deep learning using real-world datasets. This book is structured to cover a wide range of machine learning techniques and tools, providing clear instructions and explanations for implementation.
 

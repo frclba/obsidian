@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Advanced Deep Learning with Keras** is a comprehensive guide to advanced deep learning techniques using Keras, a high-level neural networks API. The book covers a variety of deep learning models and methods, including autoencoders, Generative Adversarial Networks (GANs), variational autoencoders, and deep reinforcement learning, among others.
 

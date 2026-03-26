@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Hands-On Reinforcement Learning with Python** by Sudharsan Ravichandiran is a comprehensive guide focused on mastering reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow. The book is structured to provide a foundational understanding of reinforcement learning (RL), starting with its core elements such as agents, environments, policies, and models. It distinguishes RL from other machine learning paradigms and explores various types of environments, including deterministic, stochastic, fully observable, and partially observable.
 

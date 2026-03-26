@@ -1,1 +1,15 @@
-Credibility and ethics
+# Ethos
+
+Ethos is the rhetorical appeal to credibility and character. Of Aristotle's three modes of persuasion -- ethos, pathos, and [[Logos]] -- ethos is arguably the most foundational. Before anyone will listen to your logic or be moved by your emotions, they need to trust *you*. If they don't believe you're credible, competent, and acting in good faith, nothing else matters.
+
+In [[Rhetoric]], ethos operates on several levels. There's **initial ethos** -- the credibility you walk into a room with. A doctor talking about health, a veteran programmer talking about software architecture, a published author talking about writing. Your credentials, experience, and reputation precede you and set the baseline for how much weight people give your words. Then there's **derived ethos** -- the credibility you build (or destroy) during the communication itself. You can start with high initial ethos and lose it by being unprepared, dishonest, or dismissive. You can start with low initial ethos and build it by being thoughtful, well-researched, and genuinely helpful.
+
+The connection to [[ethics]] is deep and etymological -- both words come from the same Greek root. Aristotle believed that the character of the speaker was the most potent means of persuasion. And he wasn't just talking about appearing ethical -- he meant actually being ethical. People have a remarkable ability to detect inauthenticity, even if they can't articulate what feels off. True ethos comes from genuine integrity, not from performance.
+
+In the context of [[Persuasion]], ethos is what makes the difference between the same message being believed or dismissed. "Exercise is good for you" hits different coming from a fit, energetic doctor than from someone who clearly doesn't practice what they preach. The messenger shapes how the message is received. This is why testimonials, endorsements, and social proof are so powerful -- they borrow ethos from trusted sources.
+
+Building ethos in your own life is a long game. It comes from consistently doing what you say you'll do, demonstrating expertise through action (not just claims), being honest about what you don't know, giving credit to others, and showing genuine care for the people you're communicating with. Every interaction either deposits into or withdraws from your credibility account.
+
+[[Logos]] and ethos work together in a virtuous cycle. When someone with strong ethos presents a logical argument, people are more inclined to accept it. And when someone consistently presents sound, well-reasoned arguments, their ethos grows. The reverse is also true -- once you lose credibility, even your best logical arguments will be viewed with suspicion.
+
+In our current information environment, where anyone can publish anything and misinformation spreads freely, ethos is more important than ever. The ability to evaluate the credibility of sources -- their expertise, their track record, their incentives, their potential biases -- is a survival skill for navigating the modern world.

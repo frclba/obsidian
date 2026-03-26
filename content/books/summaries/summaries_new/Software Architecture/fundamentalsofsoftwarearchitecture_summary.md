@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 **Fundamentals of Software Architecture: An Engineering Approach** by Mark Richards and Neal Ford is a comprehensive guide aimed at both aspiring and experienced software architects. The book addresses the lack of structured resources for developers transitioning into architectural roles by providing an in-depth exploration of software architecture principles applicable across various technology stacks.
 

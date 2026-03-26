@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 The text outlines the licensing terms, disclaimer of liability, and limited warranty for "Fintech Fundamentals." It emphasizes that purchasing or using the book grants permission to use its contents but not ownership. Duplication or dissemination is restricted and requires permission from the publisher, Mercury Learning and Information (MLI). The publisher and contributors disclaim any warranties regarding the performance of the book's contents or associated software, and they are not liable for damages arising from its use. The sole remedy for claims is book replacement at the publisher's discretion.
 

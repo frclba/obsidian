@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]] | [[Agile Design]]
 
 # Summary of "Learning Domain-Driven Design" by Vlad Khononov
 

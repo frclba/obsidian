@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]] | [[Computer Science & Quantum BIT]]
 
 # Summary of "Discrete Mathematics with Cryptographic Applications"
 

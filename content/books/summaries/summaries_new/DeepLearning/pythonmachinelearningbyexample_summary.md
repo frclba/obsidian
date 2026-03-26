@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 "Python Machine Learning By Example" by Yuxi (Hayden) Liu provides a practical exploration of machine learning concepts using Python. The book is structured to guide readers through implementing algorithms and understanding machine learning principles through hands-on examples.
 

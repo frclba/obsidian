@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 Blockchain technology, a cornerstone of the digital economy, enables secure, immutable transactions across distributed networks. Initially used for Bitcoin, blockchain is now applied to various industries, enhancing product traceability, copyright protection, and financial transactions. This technology is pivotal for the digital economy's growth, projected to reach 22% of the U.S. economy by 2030.
 

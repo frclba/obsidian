@@ -1,4 +1,5 @@
-markdown
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
+
 **Discrete Mathematics with Cryptographic Applications: Key Points**
 
 This book focuses on discrete mathematics, emphasizing cryptographic applications and related topics. It is structured to cater to college freshmen, highlighting essential concepts in discrete mathematics and their practical applications in computer science and cryptography.

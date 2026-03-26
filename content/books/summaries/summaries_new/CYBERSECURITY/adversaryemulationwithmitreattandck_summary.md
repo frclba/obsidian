@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Adversary Emulation with MITRE ATT&CK** by Drinor Selmanaj is a comprehensive guide to understanding and implementing adversary emulation (AE) using the MITRE ATT&CK framework. The book focuses on bridging the gap between red and blue teams through effective communication and collaboration, leveraging cyber threat intelligence (CTI) to enhance security postures.
 

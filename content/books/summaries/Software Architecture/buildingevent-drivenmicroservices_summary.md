@@ -1,3 +1,4 @@
+Related: [[how_to_software_engineer]] | [[Agile Architecture]]
 
 # Summary of "Building Event-Driven Microservices" by Adam Bellemare
 

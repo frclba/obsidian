@@ -1,1 +1,15 @@
-In a corporation, a stakeholder is a member of "groups without whose support the organization would cease to exist"
+# Stakeholder
+
+A stakeholder is anyone who has a stake in the outcome of a project -- someone who is affected by it, has influence over it, or whose support is needed for it to succeed. The classic corporate definition is a member of "groups without whose support the organization would cease to exist," but in practice, the concept is broader and more nuanced than that.
+
+Stakeholders come in many flavors. There are the obvious ones: the customer who'll use the product, the executive who's funding it, the team that's building it. But there are also less obvious stakeholders: the support team who'll field complaints if it breaks, the legal department that needs to approve the terms of service, the operations team that has to keep it running, and even competitors whose market position is affected by what you ship.
+
+Understanding your stakeholders is one of the most underrated project management skills. Each stakeholder has different needs, different levels of influence, and different levels of interest in your project. A common tool is the stakeholder matrix, where you map people along two axes: power/influence and interest/engagement. People with high power and high interest need close management. People with high power but low interest need to be kept satisfied. People with low power but high interest should be kept informed. And people with low power and low interest just need occasional monitoring.
+
+[[Active Stakeholder Participation]] is what separates agile projects from traditional ones. In waterfall, stakeholders show up at the beginning (to give requirements) and the end (to accept or reject the deliverable). In agile, stakeholders are involved continuously -- attending sprint reviews, providing feedback, clarifying requirements, and adjusting priorities. This ongoing involvement dramatically reduces the risk of building the wrong thing.
+
+The challenge with stakeholder management in [[Project Managment]] is that stakeholders often disagree with each other. The sales team wants features that close deals. The engineering team wants to pay down technical debt. The CEO wants the roadmap to look impressive for investors. Part of the product and project manager's job is navigating these competing interests, finding compromises, and making sure the most important voices are heard -- which aren't always the loudest ones.
+
+Communication with stakeholders should be tailored to the audience. Developers want technical details. Executives want business impact and timelines. End users want to know how their daily experience will change. Using the same communication for all stakeholders is a guaranteed way to either bore some or confuse others (or both).
+
+The bottom line is that projects don't fail because of technology. They fail because of people. Understanding, engaging, and aligning your stakeholders is often the difference between a project that ships successfully and one that implodes. Treat stakeholder management as a first-class activity, not an afterthought.

@@ -1,4 +1,4 @@
-
+[[Military Science]] | [[Business management]]
 
 In 1988, military strategist, John A. Warden III introduced the Five Ring System model in his book, The Air Campaign, contending that any complex system could be broken down into five concentric rings.
 

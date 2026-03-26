@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 # Practical Data Privacy: Enhancing Privacy and Security in Data
 

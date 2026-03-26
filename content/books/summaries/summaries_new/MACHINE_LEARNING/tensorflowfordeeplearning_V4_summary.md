@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 **TensorFlow for Deep Learning** by Bharath Ramsundar and Reza Bosagh Zadeh is a comprehensive guide for practitioners aiming to leverage TensorFlow for deep learning applications. The book covers a range of topics from the basics of linear regression to advanced reinforcement learning, providing practical examples and foundational concepts.
 

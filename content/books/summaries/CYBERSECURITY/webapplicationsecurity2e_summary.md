@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Coding]]
 
 # Summary of "Web Application Security: Exploitation and Countermeasures for Modern Web Applications" by Andrew Hoffman
 

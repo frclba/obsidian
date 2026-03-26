@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]]
 
 **Cybersecurity: A Self-Teaching Introduction** by C.P. Gupta and K.K. Goyal offers a comprehensive guide to cybersecurity and cybercrime, designed for self-study. The book covers fundamental concepts such as data security, threats, malicious software, firewalls, VPNs, security architecture, policies, cyberlaw, and cloud security. Both authors are university instructors and IEEE members with published research in international journals.
 

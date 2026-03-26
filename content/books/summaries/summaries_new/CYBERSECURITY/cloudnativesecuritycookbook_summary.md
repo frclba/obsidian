@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Cloud Native Security Cookbook** by Josh Armitage is a comprehensive guide focused on securing cloud environments using AWS, Azure, and GCP. This book is essential for organizations needing robust cloud security solutions, offering practical recipes for implementing secure systems through Terraform.
 

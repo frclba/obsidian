@@ -1,1 +1,15 @@
-Logic and reason
+# Logos
+
+Logos is one of the three modes of persuasion identified by Aristotle, alongside [[Ethos]] (credibility) and pathos (emotional appeal). Logos is the appeal to logic and reason -- it's the part of an argument that says "here are the facts, here's the evidence, here's why my conclusion follows logically from the premises."
+
+In [[Rhetoric]], logos is often considered the most "respectable" mode of persuasion. We like to think of ourselves as rational beings who are persuaded by evidence and sound reasoning. And to some extent, that's true -- a well-structured logical argument is genuinely compelling. But Aristotle understood something that modern cognitive science has confirmed: logos alone is rarely enough. People make decisions emotionally and justify them logically. That's why ethos and pathos matter just as much.
+
+The tools of logos include statistics, data, examples, analogies, deductive reasoning, inductive reasoning, case studies, and expert testimony. When a speaker says "according to a study from Harvard..." or "in 9 out of 10 cases..." they're making a logos appeal. They're saying "don't just take my word for it -- look at the evidence."
+
+But here's the thing about logos: it can be used well or badly. A logically valid argument can have false premises and reach a wrong conclusion. Statistics can be cherry-picked, misleading, or taken out of context. This is where [[Logic]] as a formal discipline becomes important -- it teaches you to evaluate whether an argument is actually sound, not just whether it *sounds* sound. Knowing the difference between correlation and causation, understanding common logical fallacies, recognizing when someone is smuggling in unproven assumptions -- that's logos literacy.
+
+The relationship between logos and [[Persuasion]] is interesting because pure logos is often less persuasive than it should be. You can have all the data in the world, a flawless logical chain, and still fail to convince people. This isn't because people are stupid -- it's because persuasion operates on multiple levels simultaneously. If the audience doesn't trust you ([[Ethos]]), they'll question your data. If they don't feel emotionally engaged, they won't care about your logic. The most effective communicators weave all three modes together seamlessly.
+
+In everyday life, developing your logos skills means learning to construct clear arguments, support claims with evidence, and think critically about the arguments others present to you. It means asking "what's the evidence for this?" and "does the conclusion actually follow from the premises?" These are habits of mind that serve you in everything from business decisions to political discourse to personal relationships.
+
+Logos is the backbone of intellectual discourse. Without it, we're just trading feelings and assertions. But it's most powerful when paired with credibility and emotional resonance. Aristotle had it right: the best persuasion uses all three modes, each reinforcing the others.

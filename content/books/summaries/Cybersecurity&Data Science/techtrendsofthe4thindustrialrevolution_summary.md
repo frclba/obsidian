@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Data crunching]] | [[Future tech]]
 
 # Summary of "Tech Trends of the 4th Industrial Revolution"
 

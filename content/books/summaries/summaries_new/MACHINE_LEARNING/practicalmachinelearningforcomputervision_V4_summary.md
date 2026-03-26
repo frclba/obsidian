@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Data crunching]]
 
 **Practical Machine Learning for Computer Vision** by Valliappa Lakshmanan, Martin Görner, and Ryan Gillard provides a comprehensive guide to applying machine learning (ML) to computer vision tasks using TensorFlow and Keras. The book is structured to facilitate a practical understanding of ML architectures and their applications in image processing tasks such as classification, detection, segmentation, and generation.
 

@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Security Architecture for Hybrid Cloud** by Mark Buckwell, Stefaan Van daele, and Carsten Horst provides a comprehensive framework for securing hybrid multicloud environments using Zero Trust principles. The book is a crucial resource for IT and security professionals, offering structured methodologies to design secure cloud architectures.
 

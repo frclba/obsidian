@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]] | [[Open-source Intelligence (OSINT)]]
 
 **Intelligence-Driven Incident Response: Outwitting the Adversary (Second Edition)** by Rebekah Brown and Scott J. Roberts is a crucial resource for cybersecurity professionals, focusing on integrating cyber threat intelligence (CTI) with incident response strategies. This second edition is updated with refined concepts and processes, offering practical guidance for analysts, thrunters, and blue teams.
 

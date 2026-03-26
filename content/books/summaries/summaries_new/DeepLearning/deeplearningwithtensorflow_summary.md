@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 **Deep Learning with TensorFlow** explores neural networks and intelligent systems using Python, focusing on TensorFlow, an open-source framework by Google. This book offers a comprehensive guide to deep learning concepts, architectures, and practical implementations, tailored for developers and analysts new to complex numerical computations.
 

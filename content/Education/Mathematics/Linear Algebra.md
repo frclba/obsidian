@@ -1,0 +1,15 @@
+# Linear Algebra
+
+Linear algebra is the study of vectors, matrices, and linear transformations. That one-sentence description makes it sound dry, but it's genuinely one of the most useful branches of mathematics in existence. If you want to do anything serious in computer science, physics, engineering, economics, or data science, linear algebra is non-negotiable.
+
+At its core, linear algebra is about systems of linear equations and the spaces they define. A vector is just a list of numbers -- it could represent a point in space, a direction, the pixel values of an image, or a user's preferences on a streaming platform. A matrix is a grid of numbers that represents a transformation -- it can rotate vectors, scale them, project them, or map them from one space to another. Understanding how matrices act on vectors is understanding how transformations work, and transformations are everywhere.
+
+The reason [[Machine Learning]] is so deeply dependent on linear algebra is that ML models are essentially massive linear algebra computations. A neural network layer is a matrix multiplication followed by a nonlinear activation function. Training a model is an optimization problem in high-dimensional vector space. The entire backpropagation algorithm is chain rule applied to linear algebra operations. If you're trying to understand ML beyond "import tensorflow," you need linear algebra.
+
+Key concepts to get comfortable with: vector spaces, linear independence, basis and dimension, matrix operations, determinants, eigenvalues and eigenvectors, and singular value decomposition (SVD). Eigenvalues and eigenvectors in particular show up absolutely everywhere -- in principal component analysis (PCA) for dimensionality reduction, in Google's PageRank algorithm, in quantum mechanics, in vibration analysis. They capture the "essential directions" of a transformation.
+
+The connection to [[Geometric Algebra]] is worth exploring if you want deeper geometric intuition. Standard linear algebra is computationally efficient but can feel abstract and disconnected from geometric meaning. Geometric algebra provides an alternative framework where the geometry is always visible, making it especially useful for physics and computer graphics.
+
+One thing that trips people up with linear algebra is the jump from 2D and 3D (where you can visualize everything) to higher dimensions. A 100-dimensional vector space doesn't have a visual analogy, and your spatial intuition breaks down. But the math works exactly the same way. Learning to trust the algebra when your intuition fails is a crucial skill, and it's what makes linear algebra so powerful -- it lets you reason rigorously about spaces and transformations that are far beyond human visualization.
+
+Practical advice: learn linear algebra computationally, not just theoretically. Write code that creates matrices, multiplies them, finds eigenvalues, performs SVD. Libraries like NumPy make this trivial. Seeing the numbers move and understanding what the operations actually *do* to data will solidify your understanding much faster than just reading proofs.

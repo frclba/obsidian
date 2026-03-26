@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Hacker Culture A to Z: A Fun Guide to the People, Ideas, and Gadgets That Made the Tech World** by Kim Crawley is a comprehensive reference on hacker culture. Crawley, a seasoned cybersecurity researcher, explores the history and ethos of hacking, emphasizing the distinction between hackers and cybercriminals. Hackers are celebrated for their innovative use of technology, contributing significantly to the evolution of computer technology.
 

@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 "Python Deep Learning Projects" by Matthew Lamons, Rahul Kumar, and Abhishek Nagaraja provides a practical guide to implementing deep learning models using Python. The book covers a range of projects that demonstrate the application of neural networks and deep learning in building intelligent systems.
 

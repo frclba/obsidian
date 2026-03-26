@@ -1,3 +1,4 @@
+Related: [[Machine Learning]] | [[Automation & Artificial Intelligence (AI)]]
 
 "Deep Reinforcement Learning Hands-On" by Maxim Lapan provides a comprehensive guide to modern reinforcement learning (RL) methods, including deep Q-networks, policy gradients, TRPO, and AlphaGo Zero. The book is designed to fill the gap between theoretical research and practical application, offering structured information and practical examples using PyTorch. It caters to those with a background in machine learning, aiming to provide intuitive understanding and practical skills.
 

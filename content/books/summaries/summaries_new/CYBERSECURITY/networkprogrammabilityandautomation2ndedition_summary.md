@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 The second edition of "Network Programmability & Automation" by Matt Oswalt, Christian Adell, Scott S. Lowe, and Jason Edelman provides a comprehensive guide for network engineers transitioning to automation. This book addresses the growing complexity of network infrastructures and the obsolescence of manual processes due to advancements in protocols, technologies, and business demands for agility. It covers essential skills and tools for network automation, including:
 

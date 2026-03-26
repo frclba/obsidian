@@ -1,3 +1,4 @@
+Related: [[Information Security (InfoSec)]]
 
 **Practical Cloud Security** by Chris Dotson provides a comprehensive guide to securing cloud environments, emphasizing the unique challenges and opportunities presented by cloud platforms. This second edition focuses on shared responsibilities in cloud systems, offering strategies for data and application protection, particularly in sensitive sectors like healthcare. It is an essential resource for those looking to enhance their cloud security skills.
 
